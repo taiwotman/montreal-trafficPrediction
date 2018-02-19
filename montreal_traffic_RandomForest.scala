@@ -154,13 +154,6 @@ object montreal_traffic_RandomForest extends App {
 //  Recall = 0.5217246545696688
 //  F1 = 0.4695649096879411
 //  Test Error = 0.47827534543033123
-
-//  However,  we can observe that the classification accuracy
-//  is not good at all. It might be because of several reasons such as the nature
-//  of the dataset we used to train the model. Also even more importantly,
-//  we did not tune the hyperparameters while training the Logistic Regression model.
-//Moreover, while performing the transformation, the OVTR had to sacrifice some accuracy.
-
 }
 
 
